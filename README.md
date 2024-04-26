@@ -21,3 +21,6 @@ MIT
 
 ## Update from fix/merge-5791
 - Auto-generated changes
+
+## Update from refactor/merge-7311
+- Auto-generated changes
